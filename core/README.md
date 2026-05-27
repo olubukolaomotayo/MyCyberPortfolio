@@ -2,7 +2,7 @@
 
 Selected work from my completion of the Coding Dojo Cybersecurity Bootcamp (2023/2024), where I led my cohort through three progressive tracks (Core → Intermediate → Professional) and was selected to present my capstone alongside one other student at graduation.
 
-This portfolio is part of a larger professional story. I'm a QA Director with 16+ years in banking technology, and I pursued formal cybersecurity training to deepen the security dimension of my quality engineering practice. The work here demonstrates the foundation; my [profile](https://github.com/olubukolaomotayo) shows how I'm integrating that foundation into broader QA leadership.
+This portfolio is part of a larger professional story. I'm a passionate software testing professional with 20+ years in banking technology, and I pursued formal cybersecurity training to deepen the security dimension of my quality engineering practice. The work here demonstrates the foundation; my [profile](https://github.com/olubukolaomotayo) shows how I'm integrating that foundation into broader QA leadership.
 
 ## Industry certifications
 
@@ -16,7 +16,7 @@ The work follows the bootcamp's progressive structure:
 | Track | Focus | Status |
 |---|---|---|
 | **Core** | Foundations: networking, scanning, password attacks, malware, endpoint protection, secure design | Published below |
-| **Intermediate** | Applied skills, deeper exploitation and defense | Coming soon |
+| **Intermediate** | Applied skills, deeper exploitation and defense | Published below |
 | **Professional** | Advanced practice and capstone preparation | Coming soon |
 | **Capstone** | Final project presented at graduation | Coming soon |
 
